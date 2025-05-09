@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CalcApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">@color/soft_dark</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorPrimaryContainer">#000000</item>
+        <item name="colorOnPrimaryContainer">#000000</item>
+
+        <item name="colorOnSurface">#000000</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarColor">#000000</item>
+
+    </style>
+
+</resources>
